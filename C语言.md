@@ -808,3 +808,10 @@ struct simp_st
 
 枚举
 
+enum day
+
+{
+
+
+
+}
